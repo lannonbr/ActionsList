@@ -8,3 +8,4 @@ This is a list of GitHub actions I've built:
 * [repo-permission-check-action](https://github.com/lannonbr/repo-permission-check-action): GitHub Action to check if a user has specific access to a repo
 * [vsce-action](https://github.com/lannonbr/vsce-action): A GitHub Action to automate deploying VS Code extensions
 * [date-commit-action](https://github.com/lannonbr/date-commit-action): A GitHub Action to show off how one can make commits in a GitHub Action directly
+* [puppeteer-screenshot-action](https://github.com/lannonbr/puppeteer-screenshot-action): A GitHub Action to take a screenshot of a website with Puppeteer.
