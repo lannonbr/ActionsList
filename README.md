@@ -11,3 +11,5 @@ This is a list of GitHub actions I've built:
 * [vsce-action](https://github.com/lannonbr/vsce-action) (v1): A GitHub Action to automate deploying VS Code extensions
 * [date-commit-action](https://github.com/lannonbr/date-commit-action) (v1): A GitHub Action to show off how one can make commits in a GitHub Action directly
 * [puppeteer-screenshot-action](https://github.com/lannonbr/puppeteer-screenshot-action): A GitHub Action to take a screenshot of a website with Puppeteer.
+* [gatsby-github-stats/github-poll](https://github.com/lannonbr/gatsby-github-stats/tree/master/.github/actions/github-poll): A GitHub Action to query GitHub's GraphQL API and store the data into a Firebase database.
+* [gatsby-github-stats/stats-loader](https://github.com/lannonbr/gatsby-github-stats/tree/master/.github/actions/stats-loader): An Action to pull data from a firebase database (which was stored with the github-poll action above) into a local JSON file and commit it into the repository.
